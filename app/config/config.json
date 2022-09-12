@@ -1,0 +1,16 @@
+{
+	"name": "ApiFC2",
+	"admin_email": "inigo.gorosabel@gmail.com",
+	"default_title": "API FC2",
+	"db": {
+		"host": "localhost",
+		"user": "fc2",
+		"pass": "2i66!Sip0",
+		"name": "fc2",
+		"charset": "utf8mb4",
+		"collate": "utf8mb4_unicode_ci"
+	},
+	"log_level": "DEBUG",
+	"base_url": "https://apifc2.osumi.es/",
+	"environment": "prod"
+}
